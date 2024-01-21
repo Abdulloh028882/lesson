@@ -48,12 +48,12 @@
 //   set.add(item)
 // })
 
-// console.log(set);
+console.log(set);
 
-// console.log(set.has("Max"));
+console.log(set.has("Max"));
 
 
-// console.log(set.entries());
+console.log(set.entries());
 
 localStorage.setItem("local","Hello world by me")
 
